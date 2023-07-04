@@ -1,4 +1,4 @@
-//linked list are methods so they have local variables//
+//linked list are methods, they have local variables//
 
 //creates the linked list function//
 class linkedList {
