@@ -1,0 +1,1 @@
+First attempt at creating a linked list. This is practice.
